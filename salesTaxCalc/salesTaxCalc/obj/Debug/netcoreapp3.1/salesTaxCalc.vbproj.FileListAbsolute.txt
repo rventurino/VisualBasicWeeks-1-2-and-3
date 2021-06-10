@@ -1,0 +1,15 @@
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.vbproj.AssemblyReference.cache
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.Form1.resources
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.vbproj.GenerateResource.cache
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.AssemblyInfoInputs.cache
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.AssemblyInfo.vb
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\bin\Debug\netcoreapp3.1\salesTaxCalc.exe
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\bin\Debug\netcoreapp3.1\salesTaxCalc.deps.json
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\bin\Debug\netcoreapp3.1\salesTaxCalc.runtimeconfig.json
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\bin\Debug\netcoreapp3.1\salesTaxCalc.runtimeconfig.dev.json
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\bin\Debug\netcoreapp3.1\salesTaxCalc.dll
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\bin\Debug\netcoreapp3.1\salesTaxCalc.pdb
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.dll
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.pdb
+C:\Users\Wavy\source\repos\salesTaxCalc\salesTaxCalc\obj\Debug\netcoreapp3.1\salesTaxCalc.genruntimeconfig.cache

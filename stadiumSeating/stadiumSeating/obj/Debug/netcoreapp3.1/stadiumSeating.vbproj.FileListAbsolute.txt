@@ -1,0 +1,16 @@
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.vbproj.AssemblyReference.cache
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.Form1.resources
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.Resources.resources
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.vbproj.GenerateResource.cache
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.AssemblyInfoInputs.cache
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.AssemblyInfo.vb
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.vbproj.CoreCompileInputs.cache
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\bin\Debug\netcoreapp3.1\stadiumSeating.exe
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\bin\Debug\netcoreapp3.1\stadiumSeating.deps.json
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\bin\Debug\netcoreapp3.1\stadiumSeating.runtimeconfig.json
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\bin\Debug\netcoreapp3.1\stadiumSeating.runtimeconfig.dev.json
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\bin\Debug\netcoreapp3.1\stadiumSeating.dll
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\bin\Debug\netcoreapp3.1\stadiumSeating.pdb
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.dll
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.pdb
+C:\Users\Wavy\source\repos\stadiumSeating\stadiumSeating\obj\Debug\netcoreapp3.1\stadiumSeating.genruntimeconfig.cache

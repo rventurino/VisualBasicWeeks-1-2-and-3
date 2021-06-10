@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "salesTaxCalc/1.0.0": {
+        "runtime": {
+          "salesTaxCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "salesTaxCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
